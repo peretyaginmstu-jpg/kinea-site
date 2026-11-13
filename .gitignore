@@ -1,0 +1,8 @@
+# сборка для выкладки
+dist/
+*.zip
+
+# служебное
+.DS_Store
+node_modules/
+.claude/
